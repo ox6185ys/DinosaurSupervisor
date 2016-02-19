@@ -10,7 +10,7 @@ public class Dinosaur {
                 public static void main(String[] args){
             Dinosaur t_rex = new Dinosaur();
             Dinosaur velociraptor = new Dinosaur();
-
+                    System.out.println("This is a neat resource!");
             t_rex.roar();
             velociraptor.roar();
         }
