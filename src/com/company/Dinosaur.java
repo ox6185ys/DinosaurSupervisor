@@ -1,5 +1,4 @@
 package com.company;
-
 /**
  * Created by ox6185ys on 2/18/2016.
  */
@@ -15,8 +14,8 @@ public class Dinosaur {
             t_rex.roar();
             velociraptor.roar();
         }
-    }
+ }
 
-
+    private void roar() {
     }
 }
